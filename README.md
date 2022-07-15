@@ -18,6 +18,7 @@ Here are some ideas to get you started:-->
 
 ## 🔥 A lil bit about me:
 [![Faiez's 42 stats](https://badge42.vercel.app/api/v2/cl5mccvot004509mlnhxxwj9p/stats?cursusId=21&coalitionId=183)](https://github.com/JaeSeoKim/badge42)
+[![mkhairul's 42 stats](https://badge42.vercel.app/api/v2/cl5mccvot004509mlnhxxwj9p/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 | No  | Project                                     | Description                            | Grade   |
 | :-: | :------------------------------------------ | :------------------------------------: | :-----: |
