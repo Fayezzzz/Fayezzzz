@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 * 📫 How to reach me:
   - 📞 My Phone Number: `011-1024 8084`
   - 📧 My Email: <a href="mailto:faiez234@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d95040?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></a>
-  - 📷 My Instagram: <a href="[https://www.instagram.com/fayezzmu/?hl=en](https://www.instagram.com/fayezzmu/?hl=en)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  - 📷 My Instagram: <a href="https://www.instagram.com/fayezzmu/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 * 🛹 My hobby is `skateboarding`
 
