@@ -1,9 +1,9 @@
-## Heyy there I'm Faiez 👋
+<h1 align="center">Hi, I'm Faiez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Kuala+Lumpur+Student"></a>
+</p>
 
-<!--
-**Fayezzzz/Fayezzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+## 🔥 A lil bit about me:
 
 * 📚 I'm currently a `Cadet` in 42KL
 * 🔭 I’m currently working on `ft_printf.c`
@@ -16,9 +16,11 @@ Here are some ideas to get you started:-->
 
 * 🛹 My hobby is `skateboarding`
 
-## 🔥 A lil bit about me:
+## 💡 My Progress so far:
 [![Faiez's 42 stats](https://badge42.vercel.app/api/v2/cl5mccvot004509mlnhxxwj9p/stats?cursusId=21&coalitionId=183)](https://github.com/JaeSeoKim/badge42)
 [![mkhairul's 42 stats](https://badge42.vercel.app/api/v2/cl5mccvot004509mlnhxxwj9p/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+---
 
 | No  | Project                                     | Description                            | Grade   |
 | :-: | :------------------------------------------ | :------------------------------------: | :-----: |
